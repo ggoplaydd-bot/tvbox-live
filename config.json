@@ -1,12 +1,13 @@
 ﻿{
-  "spider": "",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [],
   "lives": [
     {
       "name": "纯净央卫专线",
-      "type": 1,
+      "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ggoplaydd-bot/tvbox-live@main/live.txt",
+      "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
